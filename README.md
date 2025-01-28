@@ -1,2 +1,2 @@
 # templates
-Plantillas para tesis, casos y presentaciones
+Ejemplo de Plantillas para tesis, casos y presentaciones
